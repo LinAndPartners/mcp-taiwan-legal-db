@@ -3,20 +3,16 @@
 **allowed_hosts**跟**allowed_origins**
 
 https://render.com/
-
-|Language|Python 3|
-
-|Branch|main|
-
-|Build Command|pip install -e . && playwright install chromium|
-
-|Start Command|python remote_server.py|
-
-|Instance Type|Free|
-
-Environment 新增：
-|NAME|PYTHON_VERSION|
-|VALUE|3.12.8|
+| 設定值 | 參數 |
+|-------|------|
+| Language | Python 3 |
+| Branch | main |
+| Build Command | pip install -e . && playwright install chromium |
+| Start Command | python remote_server.py |
+| Instance Type | Free |
+| Environment 新增： |
+| NAME | PYTHON_VERSION |
+| VALUE | 3.12.8 |
 
 
 
