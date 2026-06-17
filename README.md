@@ -1,10 +1,16 @@
 修改mcp_server\server.py
+allowed_hosts跟allowed_origins
 
 https://render.com/
+
 Language  Python 3
+
 Branch  main
+
 Build Command  pip install -e . && playwright install chromium
+
 Start Command  python remote_server.py
+
 Instance Type  Free
 
 Environment 新增：
