@@ -4,19 +4,19 @@
 
 https://render.com/
 
-Language  **Python 3**
+|Language|Python 3|
 
-Branch  **main**
+|Branch|main|
 
-Build Command  **pip install -e . && playwright install chromium**
+|Build Command|pip install -e . && playwright install chromium|
 
-Start Command  **python remote_server.py**
+|Start Command|python remote_server.py|
 
-Instance Type  **Free**
+|Instance Type|Free|
 
 Environment 新增：
-NAME = **PYTHON_VERSION**
-VALUE = **3.12.8**
+|NAME|PYTHON_VERSION|
+|VALUE|3.12.8|
 
 
 
