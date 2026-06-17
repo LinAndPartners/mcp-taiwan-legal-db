@@ -14,6 +14,20 @@ https://render.com/
 | NAME | PYTHON_VERSION |
 | VALUE | 3.12.8 |
 
+ChatGPT設定
+設定 → 應用程式 → 建立應用程式
+
+| 欄位 | 填入內容 |
+|-----|-----|
+| 名稱 | 台灣法律資料庫 |
+| 說明 | 查詢司法院裁判書、全國法規資料庫與憲法法庭資料，供法律研究輔助使用。 |
+| MCP 伺服器 URL | https://你的-render-網址.onrender.com/sse "
+| 驗證 | 無驗證 |
+
+
+
+
+
 
 
 # mcp-taiwan-legal-db
