@@ -1,3 +1,18 @@
+修改mcp_server\server.py
+
+https://render.com/
+Language  Python 3
+Branch  main
+Build Command  pip install -e . && playwright install chromium
+Start Command  python remote_server.py
+Instance Type  Free
+
+Environment 新增：
+NAME = PYTHON_VERSION
+VALUE = 3.12.8
+
+
+
 # mcp-taiwan-legal-db
 
 [English](https://github.com/lawchat-oss/mcp-taiwan-legal-db/blob/main/README.en.md) · **繁體中文**
